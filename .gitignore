@@ -1,3 +1,5 @@
 jenkins_home/
 fedora41/remote-key
 fedora41/remote-key.pub
+mysql-data/
+jenkins-ansible/remote-key
